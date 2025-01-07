@@ -18,13 +18,47 @@ I'm a passionate software developer with a keen interest in web development and 
 
 ---
 
-## Skills
+### 🛠 Tech Stack:
 
-- **Languages**: JavaScript (ES6+), TypeScript, SQL  
-- **Backend**: Node.js, Express.js, NestJS, AWS Lambda  
-- **Frontend**: HTML5, CSS3, Bootstrap  
-- **Databases**: SQL DB, MongoDB, PostgreSQL, Azure Cosmos DB, MariaDB  
-- **Tools & Platforms**: AWS (S3, API Gateway, SQS), Docker, Jest, Git, JIRA  
+#### **Languages**:
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" />
+</p>
+
+#### **Backend**:
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+  <img src="https://img.icons8.com/ios/50/000000/express-js.png" alt="Express.js" />
+  <img src="https://img.icons8.com/color/48/000000/nestjs.png" alt="NestJS" />
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS Lambda" />
+</p>
+
+#### **Frontend**:
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
+</p>
+
+#### **Databases**:
+<p align="left">
+  <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL DB" />
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" height="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure Cosmos DB" height="48" />
+  <img src="https://mariadb.com/wp-content/themes/mariadb-sage/public/images/mariadb-logo-mark.88b2ec.png" alt="MariaDB" height="48" />
+</p>
+
+#### **Tools & Platforms**:
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" />
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/javascript-logo.png" alt="Jest" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+  <img src="https://img.icons8.com/color/48/000000/jira.png" alt="JIRA" />
+</p>
 
 ---
 
