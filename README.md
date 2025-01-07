@@ -28,17 +28,6 @@ I'm a passionate software developer with a keen interest in web development and 
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-## Projects
-
-### [Project 1](#)
-Brief description of project 1.
-
-### [Project 2](#)
-Brief description of project 2.
-
-### [Project 3](#)
-Brief description of project 3.
-
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/hsnimam/)
