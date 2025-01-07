@@ -2,36 +2,45 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HsnImam&color=blueviolet)
 
+🌟 **Full-Stack Developer | Tech Enthusiast | Problem Solver**  
+
+
 ## About Me
 
 I'm a passionate software developer with a keen interest in web development and javascript related technologies. I love to explore new technologies and continuously improve my skills.
 
-- 👀 I’m interested in Javascript, Typescript, NodeJs, React, SQL and NoSQL.
-- 🌱 I’m currently learning Typescript.
-- 📫 How to reach me: **paaigaam@gmail.com**
-- ⚡ Fun fact: I love playing chess and solving puzzles
+- 💻 **10+ years of experience** building scalable, high-performance web applications and distributed systems.  
+- 🎯 Passionate about designing **robust architectures**, optimizing **web performance**, and solving **real-world problems**.  
+- 🛠 Proficient in **Node.js**, **TypeScript**, **Express.js**, and modern JavaScript frameworks.  
+- 🧠 Lifelong learner committed to staying updated with the latest technologies and trends.  
+- 🌱 Currently diving deeper into **NestJS**, **cloud infrastructure**, and **scalable system design**.
+- ⚡ Fun fact: I love playing chess and solving puzzles 
+
+---
 
 ## Skills
 
-### Languages
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- **Languages**: JavaScript (ES6+), TypeScript, SQL  
+- **Backend**: Node.js, Express.js, NestJS, AWS Lambda  
+- **Frontend**: HTML5, CSS3, Bootstrap  
+- **Databases**: SQL DB, MongoDB, PostgreSQL, Azure Cosmos DB, MariaDB  
+- **Tools & Platforms**: AWS (S3, API Gateway, SQS), Docker, Jest, Git, JIRA  
 
-### Frameworks and Libraries
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+---
 
-### Tools and Platforms
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+### 💡 What I’m Currently Working On:
+- Building **scalable web architectures** with modern frameworks like **NestJS**.  
+- Enhancing **distributed systems** with cloud technologies like AWS and Azure.  
+- Exploring **advanced design patterns** to improve system modularity.  
 
-## Connect with Me
+---
 
-- [LinkedIn](https://www.linkedin.com/in/hsnimam/)
-- [Twitter](https://twitter.com/hsnimam)
+### 📫 Let's Connect:
+- **Email**: paaigaam@gmail.com  
+- **LinkedIn**: [bit.ly/3iJxuAL](https://bit.ly/3iJxuAL)  
+- **StackOverflow**: [bit.ly/3okTwLu](https://bit.ly/3okTwLu)  
+
+---
 
 ## GitHub Stats
 
