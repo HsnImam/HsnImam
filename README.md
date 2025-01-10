@@ -40,6 +40,7 @@ I'm a passionate software developer with a keen interest in web development and 
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
+  <img src="https://img.icons8.com/?size=48&id=bzf0DqjXFHIW&format=png" alt="React" />
 </p>
 
 #### **Databases**:
